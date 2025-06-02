@@ -26,8 +26,3 @@ node index.js
 
 Follow the prompts to manage your company's data.
 
-## Dependencies
-
-- [Inquirer](https://www.npmjs.com/package/inquirer)
-- [MySQL2](https://www.npmjs.com/package/mysql2)
-- [Console Table](https://www.npmjs.com/package/console.table)
