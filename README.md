@@ -14,7 +14,7 @@ This is a command-line application for managing departments, roles, and employee
 
 1. Clone the repository.
 2. Run `npm install` to install dependencies.
-3. Set up your MySQL database and update the `.env` file with your database credentials.
+3. Set up your PostGres database and update the `.env` file with your database credentials.
 
 ## Usage
 
